@@ -24,3 +24,7 @@ Samostojna, odzivna spletna aplikacija za dnevno učenje poslovne angleščine: 
 ## Spreminjanje nalog
 
 V datoteki `bank.js` lahko dodaš / urediš besede, prevode in stavke. Pri posodobitvi objave bo GitHub Pages spletno aplikacijo znova objavil.
+
+
+## Posodobitev V2
+Naloži vse datoteke iz te mape v koren obstoječega GitHub repozitorija. Obstoječe datoteke z istimi imeni prepiši (index.html, app.js, sw.js, manifest.webmanifest). Dodani sta premium.css in ayva-fox.webp. Napredek ostane shranjen v istem brskalniku, ker uporablja enak localStorage ključ. Po objavi osveži stran (po potrebi hard refresh), saj lahko PWA zadrži staro verzijo.
