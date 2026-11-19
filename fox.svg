@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270 270" role="img" aria-label="Fox learning mascot">
+<defs><linearGradient id="fur" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffc184"/><stop offset="1" stop-color="#f17758"/></linearGradient></defs>
+<ellipse cx="137" cy="239" rx="84" ry="13" fill="#10192a" opacity=".33"/>
+<path d="M77 150 38 39l83 45ZM193 150l39-111-83 45Z" fill="#f39762" stroke="#d76d4d" stroke-width="3" stroke-linejoin="round"/>
+<path d="M78 126 55 66l50 30ZM192 126l23-60-50 30Z" fill="#ffd4bf"/>
+<path d="M70 178q-18 48 20 68h92q37-17 18-68" fill="#ee8c60"/>
+<path d="M137 68c-62 0-102 44-100 91 2 54 48 88 100 88s98-34 100-88c2-47-38-91-100-91Z" fill="url(#fur)"/>
+<path d="M42 165q30-16 75 14l20 43 20-43q45-30 75-14-9 58-95 75-86-17-95-75Z" fill="#fff0db"/>
+<ellipse cx="100" cy="152" rx="8" ry="10" fill="#202b39"/><ellipse cx="174" cy="152" rx="8" ry="10" fill="#202b39"/>
+<circle cx="103" cy="149" r="2.3" fill="white"/><circle cx="177" cy="149" r="2.3" fill="white"/>
+<path d="M124 188q13-8 26 0l-13 14Z" fill="#273348"/><path d="M137 201q-3 14-15 11m15-11q3 14 15 11" fill="none" stroke="#273348" stroke-width="3" stroke-linecap="round"/>
+<circle cx="76" cy="180" r="11" fill="#f99c8a" opacity=".65"/><circle cx="198" cy="180" r="11" fill="#f99c8a" opacity=".65"/>
+<path d="M115 223q21 10 44 0" fill="none" stroke="#e3b59d" stroke-width="4" stroke-linecap="round"/>
+<path d="M66 223q-18 0-32-15m174 15q18 0 32-15" stroke="#f0a17c" stroke-width="16" stroke-linecap="round"/>
+</svg>
